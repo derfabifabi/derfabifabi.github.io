@@ -15,5 +15,10 @@
 - unemployed
 - ambition
 - after all
-
+- shithotel
+- metalsong
+- profit
+- trash
+- runningmouth
+- severedheads
 
