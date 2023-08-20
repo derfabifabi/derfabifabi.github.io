@@ -12,7 +12,7 @@
 
 ## Songs
 ### 🔭 sichten, 🔪 schneiden, 😵 vocals anpassen, 🍹 mischen, 💅 mastern 
-- unemployed
+- unemployed 🔭
 - ambition
 - after all
 - shithotel
@@ -25,7 +25,42 @@
 
 ## Recordings
 ### Unemployed
-#### Take 1
+#### Take 1 😩
 - Riff nach solo war nix
 - Text vergessen
+- Gesang kannscht da vergessen
 
+#### Take 2 🤔
+- Solo war sehr geil
+- Gesang ist stabil
+- Drums auch stabil
+
+#### Take 3 😫
+- Ende ned geklappt
+- ansonsten ganz stabil bis dahin
+
+#### Take 4 🤔
+- Solo war auch ganz gut
+- Riff danach wieder bisl schepps
+- Schlagzeug am Ende verspielt sich
+- Gesang passt auch grob
+
+#### Take 5 🤔
+- bisl schneller als die anderen Versionen
+- Gesang hier echt gut
+- Solo hier RADICAL (*guitar bending*)
+- Find die recht stabil
+
+#### Take 6 🤔
+- auch schneller (finds besser)
+- sollo wieder RADICAL mit *bendings*
+- hab hier mal den übergang gefaket und klappt
+- auch echt gut hier ALLES 
+- glaube ich finde die am besten
+
+#### Take 7 🤔
+- auch echt gut
+- Solo bisl schlechter
+- Vocals haben gepasst
+- vor dem wealthy part spiel ich ausversehen *1 geilen RIFF*
+- Rest glaub auch
