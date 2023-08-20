@@ -1,88 +1,31 @@
 <!DOCTYPE html>
 <html lang="de">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
     <title>💻 JÖBPÖP 🎸</title>
-<meta name="googlebot" content="noindex">
+    <meta name="googlebot" content="noindex" />
+    <link rel="stylesheet" href="output.css" />
   </head>
-  <body>
-
-<a href='https://github.com/derfabifabi/derfabifabi.github.io'>
-👉Infos
-</a>
-
-<h1>JobPöP</h1>
-<h2>songs</h2>
-
-<article class='jobpop__songContainer'>
-<h3>unemployed</h3>
-<h4>Take 1</h4>
-<audio controls>
-  <source src="export/unemployed/unemployed_take_01.mp3" type="audio/mpeg">
-</audio>
-<h4>Take 2</h4>
-<audio controls>
-  <source src="export/unemployed/unemployed_take_02.mp3" type="audio/mpeg">
-</audio>
-<h4>Take 3</h4>
-<audio controls>
-  <source src="export/unemployed/unemployed_take_03.mp3" type="audio/mpeg">
-</audio>
-<h4>Take 4</h4>
-<audio controls>
-  <source src="export/unemployed/unemployed_take_04.mp3" type="audio/mpeg">
-</audio>
-<h4>Take 5</h4>
-<audio controls>
-  <source src="export/unemployed/unemployed_take_05.mp3" type="audio/mpeg">
-</audio>
-<h4>Take 6</h4>
-<audio controls>
-  <source src="export/unemployed/unemployed_take_06.mp3" type="audio/mpeg">
-</audio>
-<h4>Take 7</h4>
-<audio controls>
-  <source src="export/unemployed/unemployed_take_07.mp3" type="audio/mpeg">
-</audio>
-</article>
-
-
-
-<article class='jobpop__songContainer'>
-<h3>ambitions</h3>
-<h4>Take 1</h4>
-<audio controls>
-  <source src="export/ambitions/ambitions_take_01.mp3" type="audio/mpeg">
-</audio>
-<h4>Take 2</h4>
-<audio controls>
-  <source src="export/ambitions/ambitions_take_02.mp3" type="audio/mpeg">
-</audio>
-<h4>Take 3</h4>
-<audio controls>
-  <source src="export/ambitions/ambitions_take_03.mp3" type="audio/mpeg">
-</audio>
-</article>
-
-<article class='jobpop__songContainer'>
-<h3>after all</h3>
-<h4>Take 1</h4>
-<audio controls>
-  <source src="export/afterall/afterall_take_01.mp3" type="audio/mpeg">
-</audio>
-<h4>Take 2</h4>
-<audio controls>
-  <source src="export/afterall/afterall_take_02.mp3" type="audio/mpeg">
-</audio>
-<h4>Take 3</h4>
-<audio controls>
-  <source src="export/afterall/afterall_take_03.mp3" type="audio/mpeg">
-</audio>
-</article>
-
-<footer><a href='/impressum.html'>Impressum</a>
-<a href='/dsgvo.html'>Datenschutzerklärung</a>
-</footer>
+  <body
+    class="overflow-x-hidden px-8 max-w-3xl mx-auto flex flex-col gap-y-8 min-h-screen"
+  >
+    <header class="flex items-center justify-between py-8">
+      <h1>JobPöP</h1>
+      <a href="https://github.com/derfabifabi/derfabifabi.github.io">
+        👉Infos
+      </a>
+    </header>
+    <main>
+      <ul id="songList" class="flex flex-col gap-y-8"></ul>
+    </main>
+    <footer class="mt-auto py-8">
+      <a href="/impressum.html">Impressum</a>
+      <a href="/dsgvo.html">Datenschutzerklärung</a>
+    </footer>
+    <script src="./index.js"></script>
   </body>
 </html>
