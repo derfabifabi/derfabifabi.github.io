@@ -105,9 +105,11 @@
 ### After All
 
 #### Take 2
-
+- lauterwerd part auch richtig gut
+- ballert nach ruhigem part gut nei
 
 #### Take 3
 - Gitarre Allein am Anfang nice
 - Schnellerwerdpart geil, aber gesang da whack
 - Ende Solopart geil
+
