@@ -100,3 +100,14 @@
 - fand den gesang glaub zt depperd bei den (uuus)
 - Solo bisl schepps am anfang aber dann gut
 - auch stabiler take
+
+
+### After All
+
+#### Take 2
+
+
+#### Take 3
+- Gitarre Allein am Anfang nice
+- Schnellerwerdpart geil, aber gesang da whack
+- Ende Solopart geil
