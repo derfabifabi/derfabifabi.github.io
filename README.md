@@ -12,8 +12,8 @@
 
 ## Songs
 ### 🔭 sichten, 🔪 schneiden, 😵 vocals anpassen, 🍹 mischen, 💅 mastern 
-- unemployed 🔭
-- ambition
+- unemployed 🔪
+- ambition 🔭
 - after all
 - shithotel
 - metalsong
