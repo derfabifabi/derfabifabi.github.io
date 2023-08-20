@@ -63,4 +63,19 @@
 - Solo bisl schlechter
 - Vocals haben gepasst
 - vor dem wealthy part spiel ich ausversehen *1 geilen RIFF*
-- Rest glaub auch
+- Rest passt auch glaub auch
+
+
+### Ambitions
+
+#### Take 1 😩
+- war echt gut
+- Gesang auch i.o.
+- Ende leider verspielt
+- sogenanntes *Alternatives Ende*
+
+#### Take 2 🤔
+- war auch gut
+- Gitarre cooler als bei 1 aber paar Patzer
+- gegen Ende, nach der Pause kickts nochmal geil nei
+- sollten die nehmen und mit take 1 ausbessern (falls nötig)
