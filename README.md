@@ -14,7 +14,7 @@
 ### 🔭 sichten, 🔪 schneiden, 😵 vocals anpassen, 🍹 mischen, 💅 mastern 
 - unemployed 🔪
 - ambition 🔪
-- after all
+- after all 🔭
 - shithotel
 - metalsong
 - profit
@@ -79,3 +79,24 @@
 - Gitarre cooler als bei 1 aber paar Patzer
 - gegen Ende, nach der Pause kickts nochmal geil nei
 - sollten die nehmen und mit take 1 ausbessern (falls nötig)
+
+### After All
+#### Take 1 🤔
+- sehr gut
+- beim schnellerwerdpart bis zu schnell schneller
+- synth bisl verspielt bei übergang (wenn durms wieder reinknallen am ende)
+- Gesang war gut glaub
+
+#### Take 2 🤔
+- ja mei auch klasse
+- schnellerwerd part besser
+- find übergang von ref 1 zu zwischending stabil
+- Synth aufbau da auch klasse
+- man köntne da mit dem ableton echo beim ZP hochgehen *trippy*
+
+
+#### Take 3 🤔
+- Jonas trommel ganz geil of der Töm hier
+- fand den gesang glaub zt depperd bei den (uuus)
+- Solo bisl schepps am anfang aber dann gut
+- auch stabiler take
