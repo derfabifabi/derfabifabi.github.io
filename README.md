@@ -15,12 +15,12 @@
 - unemployed 🔪
 - ambition 🔪
 - after all 🔪
-- shithotel 🔭
-- metalsong
-- profit
-- trash
+- shithotel 🔪
+- metalsong 
+- profit 🔪
+- trash 
 - runningmouth
-- severedheads
+- severedheads 🔭 
 
 
 ## Recordings
