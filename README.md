@@ -80,10 +80,13 @@
 
 
 #### Take 2 🤔
+
+##### Fabi
 - war auch gut
 - Gitarre cooler als bei 1 aber paar Patzer
 - gegen Ende, nach der Pause kickts nochmal geil nei
 - sollten die nehmen und mit take 1 ausbessern (falls nötig)
+##### Jonas
 - würde auch die 2 nehmen, das ende bimmst
 
 #### Take 3 🤔
