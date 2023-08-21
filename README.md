@@ -109,24 +109,24 @@
 - Ende Solopart geil
 
 ### Shithotel
-#### Take 1
+#### Take 1 😩
 - jobinterview part gut 
 - aber am ende verspielt und abgebrochen
 
-#### Take 2
+#### Take 2 🤔
 - Gesang overall ganz gut
 - aber iwie paar mal text vergessen…
 - neue »Variante« mit dem Riff vor I bet you think its great …
 - find ich ganz geil?
 
-#### Take 3
+#### Take 3 😩
 - eher schwach mit relativ vielen verspielern
 
-#### Take 4
+#### Take 4 😩
 - ok aber ende VOR crazy Ende verspielt
 - crazyende war hier aber ganz geil
 
-#### Take 5
+#### Take 5 🤔
 - KLASSISCHE VERSION, F gespielt, vor (I bet you think…)
 - gitarre bisl mehr verzerrt
 - jobinterview part ganz gut
@@ -136,7 +136,7 @@
 - solo recht gut (vil die verzerrte variante wo reinmogeln?)
 - crazy ende gut
 
-#### take 6
+#### Take 6 🤔
 - interview part hat da echt gut geklappt
 - synth wieder hoch bei erstem »solo« (nice)
 - soo hier auch wieder lustig (vil iwie so zwei solos gleichzeitig?)
