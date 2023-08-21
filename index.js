@@ -13,6 +13,10 @@ const songs = {
     name: 'unemployed',
     title: 'Unemployed',
     takes: 7,
+  },shithotel: {
+    name: 'shithotel',
+    title: 'Shit Hotel',
+    takes: 6,
   },
 };
 
