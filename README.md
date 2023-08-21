@@ -108,3 +108,7 @@
 - Schnellerwerdpart geil, aber gesang da whack
 - Ende Solopart geil
 
+### Shithotel
+#### Take 1
+- jobinterview part gut 
+- aber am ende verspielt und abgebrochen
