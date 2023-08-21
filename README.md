@@ -107,7 +107,7 @@
 - Gesang war gut glaub
 - übergang zu gebaler part gitarre bisl whack aber kurz davor genial
 
-##### Fabi
+##### Jonas
 - komplett verkackt beim schneller werden zum refrain
 - find den übergang von 1 refrain zu strophe richig gut
 - aufbau ist geil
