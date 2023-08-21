@@ -186,6 +186,8 @@
 
 #### Take 2 🤔
 - gitarre bisl unverzerrter
+Jonas
+- finde das diddldingdiddlding auf der unverzerrten gitarre klingt sau gut, aber insgesamt wahrscheinlich verzerrt besser
 
 
 #### Take 3 😩
@@ -197,3 +199,7 @@
 - verzerrter = besser 
 - wo ich so seiten mute und drübber klopp klingt am geilsten
 - find ich beste
+Jonas
+- finde auch die am besten, gitarre klingt super
+- evtl. den stylophon noch bissl rumprobieren?
+- hihat im refrain fixen? aber vielleicht auch cool so
