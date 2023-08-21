@@ -73,18 +73,21 @@
 - Gesang auch i.o.
 - Ende leider verspielt
 - sogenanntes *Alternatives Ende*
+- find hier an paar stellen klingt das becken komisch oder zu heftig
 
 #### Take 2 🤔
 - war auch gut
 - Gitarre cooler als bei 1 aber paar Patzer
 - gegen Ende, nach der Pause kickts nochmal geil nei
 - sollten die nehmen und mit take 1 ausbessern (falls nötig)
+- würde auch die 2 nehmen, das ende bimmst
 
 #### Take 3 🤔
 - Jonas trommel ganz geil of der Töm hier
 - fand den gesang glaub zt depperd bei den (uuus)
 - Solo bisl schepps am anfang aber dann gut
 - auch stabiler take
+- finde die gitarre bei 0:42 cool
 
 ### After All
 #### Take 1 🤔
@@ -94,6 +97,12 @@
 - synth bisl verspielt bei übergang (wenn durms wieder reinknallen am ende)
 - Gesang war gut glaub
 - übergang zu gebaler part gitarre bisl whack aber kurz davor genial
+- komplett verkackt beim schneller werden zum refrain
+- find den übergang von 1 refrain zu strophe richig gut
+- aufbau ist geil
+- schlagzeug und synth bissl asynchron mit dem düdüdü angefangen
+- ein lautstärke fade beim synth aufbau? aber vielleicht auch gut so direkt auf voller lautstärke?
+- finde die version super aber man müsste das schneller werden irgendwie ändern
 
 #### Take 2 🤔
 - ja mei auch klasse
@@ -102,11 +111,16 @@
 - find übergang von ref 1 zu zwischending stabil
 - Synth aufbau da auch klasse
 - man köntne da mit dem ableton echo beim ZP hochgehen *trippy*
+- fand die geschwindigkeit von 1 besser
+- lauter werden ist obergeil
+- sauber am ende
 
 #### Take 3 🤔
 - Gitarre Allein am Anfang nice
 - Schnellerwerdpart geil, aber gesang da whack
 - Ende Solopart geil
+- glaub finde die 1 minimal besser
+- lauter werden hier nicht so fetzig
 
 ### Shithotel
 #### Take 1 😩
