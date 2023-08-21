@@ -141,3 +141,24 @@
 - synth wieder hoch bei erstem »solo« (nice)
 - soo hier auch wieder lustig (vil iwie so zwei solos gleichzeitig?)
 - ende auch top
+
+
+### Profit
+
+#### Take 1 🤔
+- stabil
+
+
+#### Take 2 🤔
+- gitarre bisl unverzerrter
+
+
+#### Take 3 😩
+- verzerrter = besser
+- aber abbruch weil verspielt 
+
+
+#### Take 4 🤔
+- verzerrter = besser 
+- wo ich so seiten mute und drübber klopp klingt am geilsten
+- find ich beste
