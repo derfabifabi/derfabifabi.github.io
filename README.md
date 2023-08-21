@@ -50,6 +50,7 @@
 - Gesang hier echt gut
 - Solo hier RADICAL (*guitar bending*)
 - Find die recht stabil
+- jep
 
 #### Take 6 🤔
 - auch schneller (finds besser)
@@ -57,6 +58,8 @@
 - hab hier mal den übergang gefaket und klappt
 - auch echt gut hier ALLES 
 - glaube ich finde die am besten
+- find 5 und 6 beide sehr gut
+- evtl. muss man beim unemployed teil manchmal die drums fixen weil bissl gehastet wirkt?
 
 #### Take 7 🤔
 - auch echt gut
@@ -64,6 +67,7 @@
 - Vocals haben gepasst
 - vor dem wealthy part spiel ich ausversehen *1 geilen RIFF*
 - Rest passt auch glaub auch
+- bissi langsamer als 5 und 6?! auch nicht schlecht
 
 
 ### Ambitions
@@ -118,6 +122,9 @@
 - aber iwie paar mal text vergessen…
 - neue »Variante« mit dem Riff vor I bet you think its great …
 - find ich ganz geil?
+- find die auch cool
+- becken am anfang klingt zu heftig
+- da spiel ich noch was anderes bei dem aaaaah aaaaah düdüdü, kann man da das erste becken durch snare ersetzen oder von anderer Version klauen?
 
 #### Take 3 😩
 - eher schwach mit relativ vielen verspielern
@@ -135,9 +142,11 @@
 - drums bisl viel verspieler
 - solo recht gut (vil die verzerrte variante wo reinmogeln?)
 - crazy ende gut
+- hier klingt das becken am anfang gut :D
 
 #### Take 6 🤔
 - interview part hat da echt gut geklappt
 - synth wieder hoch bei erstem »solo« (nice)
 - soo hier auch wieder lustig (vil iwie so zwei solos gleichzeitig?)
 - ende auch top
+- finde bester take
