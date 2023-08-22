@@ -16,10 +16,10 @@
 - ambition 🔪
 - after all 🔪
 - shithotel 🔪
-- metalsong 🔭
+- metalsong 
 - profit 🔪
 - trash 
-- runningmouth
+- runningmouth 🔭
 - severedheads 🔪 
 
 
