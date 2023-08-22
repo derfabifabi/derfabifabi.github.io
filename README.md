@@ -16,11 +16,11 @@
 - ambition 🔪
 - after all 🔪
 - shithotel 🔪
-- metalsong 
+- metalsong 🔭
 - profit 🔪
 - trash 
 - runningmouth
-- severedheads 🔭 
+- severedheads 🔪 
 
 
 ## Recordings
@@ -249,3 +249,11 @@
 - top
 - eig auch alles super
 - production idee, evtl mit echo auf vocals hochgehen manchmal
+
+### Metalsong
+#### Take 1
+##### Fabi
+- dachte wäre viel schlechter
+- aber drums sind hier auch iwie geil
+- hab vergessen bei dem einen part die höhen bei gitarre zu aktivieren (wie am ende)
+- window to my heart am anfang fand ich gut
