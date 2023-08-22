@@ -25,6 +25,10 @@ const songs = {
     name: 'severedheads',
     title: 'Severed Heads',
     takes: 6,
+  },runningmouth: {
+    name: 'runningmouth',
+    title: 'Running out my Mouth',
+    takes: 6,
   },
 };
 

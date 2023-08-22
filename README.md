@@ -268,11 +268,29 @@ Jonas
 - eig auch alles super
 - production idee, evtl mit echo auf vocals hochgehen manchmal
 
-### Metalsong
-#### Take 1
+### Running out my Mouth
+#### Take 1 😫
 ##### Fabi
-- dachte wäre viel schlechter
-- aber drums sind hier auch iwie geil
-- hab vergessen bei dem einen part die höhen bei gitarre zu aktivieren (wie am ende)
-- window to my heart am anfang fand ich gut
+- fängt gleich an was ich bisl zu arg find
 
+#### Take 2 🤔
+##### Fabi
+- besser mit 1 mal ohne gesang am anfang
+- production idee: mehr sidechain auf synth
+- besser als Take 1 aber mit mehr verspielern?
+
+#### Take 3 🤔
+##### Fabi
+- find hier die vocals besser
+- gute version
+- gitarre klingt bisl anders aber auch gut glaub ich
+- hab mich am ende verspielt …
+- production idee: bisl mehr geballer, drumstick gitarre am anfang so sy mäßig
+
+#### Take 4 🤔
+##### Fabi
+- anfang geballer 1A beste find ich
+- hab hier mal getestet synth wegzuschneiden bei der minipause und finds genial
+- mini verspieler von jonas vor vers 2 kann man locker wegbügeln
+- find die version sau genial
+- wo jonas am ende einzählt könnte man noch synth wegschneiden als idee
