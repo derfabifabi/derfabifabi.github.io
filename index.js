@@ -28,7 +28,7 @@ const songs = {
   },runningmouth: {
     name: 'runningmouth',
     title: 'Running out my Mouth',
-    takes: 6,
+    takes: 4,
   },
 };
 
