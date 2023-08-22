@@ -197,3 +197,55 @@
 - verzerrter = besser 
 - wo ich so seiten mute und drübber klopp klingt am geilsten
 - find ich beste
+
+
+### Severed Heads
+#### Take 1 😩
+##### Fabi
+- fand ich vom Feeling iwie geil 
+- aber quatsch weil natürlich mitte behämmert
+- aber production idee: Währened ich die Gitarre das rückwerts laufen lassen
+
+#### Take 2 🤔
+##### Fabi
+- fand ich geil
+- synth am anfang höher ist auch besser imo
+- hab da mal probiert bei der minipause nach vers 1 synth wegschneiden
+- fände das wäre ne gute idee
+- geballerpart auch geil
+- dachte geballerpart muss garnicht so ballern aber fands jetzt recht geil
+- hatte noch ne production idee, das nach der pause wie oben beschrieben zweite gesang leise von rechts kommt und oder zweite gitarre, das quasi alles immer mehr wird, kurz vor GEBALLER dann leiser und dann BRRRR, vil verstehen SIE
+
+
+#### Take 3 🤔
+##### Fabi
+- mag wie er reinkickt am anfang
+- aufbau auch stabil
+- part vor destruction is geil aber drums waren kurz weg dann 
+- find hier die verzerrung auch angenehm
+- vocals sind hier recht leise gewesen, d.h. hier und da verzerrt vom »verstärkern«
+
+#### Take 4 🤔
+##### Fabi
+- klassische version mit tiefen synth am anfang
+- wäre sicher easy auszutauschen
+- auch richtig gut
+- kann hier nich klagen
+- zwischenpart war cool
+- wenn reinkickt der part auch hier echt gut
+- verspieler NICHT VORHANDEN
+- meddlmäßiges goodbye torture am ende fand ich gut
+- fand war echt ne lässige version
+
+#### Take 5 😫
+##### Fabi 
+- Leider abbruch :(
+- kickt geil rein
+- bis zum abbruch gut
+- vil kann man hier und da bisl ausschlachten
+
+#### Take 6 🤔
+##### Fabi
+- top
+- eig auch alles super
+- production idee, evtl mit echo auf vocals hochgehen manchmal
