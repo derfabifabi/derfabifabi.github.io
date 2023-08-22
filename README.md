@@ -15,12 +15,12 @@
 - unemployed 🔪
 - ambition 🔪
 - after all 🔪
-- shithotel 🔭
-- metalsong
-- profit
-- trash
+- shithotel 🔪
+- metalsong 🔭
+- profit 🔪
+- trash 
 - runningmouth
-- severedheads
+- severedheads 🔪 
 
 
 ## Recordings
@@ -73,25 +73,40 @@
 ### Ambitions
 
 #### Take 1 😩
+##### Fabi
 - war echt gut
 - Gesang auch i.o.
 - Ende leider verspielt
 - sogenanntes *Alternatives Ende*
 
+##### Jonas
+- find hier an paar stellen klingt das becken komisch oder zu heftig
+
+
 #### Take 2 🤔
+
+##### Fabi
 - war auch gut
 - Gitarre cooler als bei 1 aber paar Patzer
 - gegen Ende, nach der Pause kickts nochmal geil nei
 - sollten die nehmen und mit take 1 ausbessern (falls nötig)
+##### Jonas
+- würde auch die 2 nehmen, das ende bimmst
 
 #### Take 3 🤔
+
+##### Fabi
 - Jonas trommel ganz geil of der Töm hier
 - fand den gesang glaub zt depperd bei den (uuus)
 - Solo bisl schepps am anfang aber dann gut
 - auch stabiler take
 
+##### Jonas
+- finde die gitarre bei 0:42 cool
+
 ### After All
 #### Take 1 🤔
+##### Fabi
 - sehr gut
 - gesang da glaub am am besten
 - beim schnellerwerdpart bis zu schnell schneller
@@ -99,18 +114,38 @@
 - Gesang war gut glaub
 - übergang zu gebaler part gitarre bisl whack aber kurz davor genial
 
+##### Jonas
+- komplett verkackt beim schneller werden zum refrain
+- find den übergang von 1 refrain zu strophe richig gut
+- aufbau ist geil
+- schlagzeug und synth bissl asynchron mit dem düdüdü angefangen
+- ein lautstärke fade beim synth aufbau? aber vielleicht auch gut so direkt auf voller lautstärke?
+- finde die version super aber man müsste das schneller werden irgendwie ändern
+
 #### Take 2 🤔
+
+##### Fabi
 - ja mei auch klasse
 - schnellerwerd part besser
 - lauterwerd part auch richtig gut eig
 - find übergang von ref 1 zu zwischending stabil
 - Synth aufbau da auch klasse
 - man köntne da mit dem ableton echo beim ZP hochgehen *trippy*
+- fand die geschwindigkeit von 1 besser
+
+##### Jonas
+- lauter werden ist obergeil
+- sauber am ende
 
 #### Take 3 🤔
+##### Fabi
 - Gitarre Allein am Anfang nice
 - Schnellerwerdpart geil, aber gesang da whack
 - Ende Solopart geil
+
+##### Jonas
+- glaub finde die 1 minimal besser
+- lauter werden hier nicht so fetzig
 
 ### Shithotel
 #### Take 1 😩
@@ -150,3 +185,94 @@
 - soo hier auch wieder lustig (vil iwie so zwei solos gleichzeitig?)
 - ende auch top
 - finde bester take
+
+
+
+### Profit
+
+#### Take 1 🤔
+- stabil
+
+
+#### Take 2 🤔
+- gitarre bisl unverzerrter
+Jonas
+- finde das diddldingdiddlding auf der unverzerrten gitarre klingt sau gut, aber insgesamt wahrscheinlich verzerrt besser
+
+
+#### Take 3 😩
+- verzerrter = besser
+- aber abbruch weil verspielt 
+
+
+#### Take 4 🤔
+- verzerrter = besser 
+- wo ich so seiten mute und drübber klopp klingt am geilsten
+- find ich beste
+
+##### Jonas
+- finde auch die am besten, gitarre klingt super
+- evtl. den stylophon noch bissl rumprobieren?
+- hihat im refrain fixen? aber vielleicht auch cool so
+
+
+
+### Severed Heads
+#### Take 1 😩
+##### Fabi
+- fand ich vom Feeling iwie geil 
+- aber quatsch weil natürlich mitte behämmert
+- aber production idee: Währened ich die Gitarre das rückwerts laufen lassen
+
+#### Take 2 🤔
+##### Fabi
+- fand ich geil
+- synth am anfang höher ist auch besser imo
+- hab da mal probiert bei der minipause nach vers 1 synth wegschneiden
+- fände das wäre ne gute idee
+- geballerpart auch geil
+- dachte geballerpart muss garnicht so ballern aber fands jetzt recht geil
+- hatte noch ne production idee, das nach der pause wie oben beschrieben zweite gesang leise von rechts kommt und oder zweite gitarre, das quasi alles immer mehr wird, kurz vor GEBALLER dann leiser und dann BRRRR, vil verstehen SIE
+
+
+#### Take 3 🤔
+##### Fabi
+- mag wie er reinkickt am anfang
+- aufbau auch stabil
+- part vor destruction is geil aber drums waren kurz weg dann 
+- find hier die verzerrung auch angenehm
+- vocals sind hier recht leise gewesen, d.h. hier und da verzerrt vom »verstärkern«
+
+#### Take 4 🤔
+##### Fabi
+- klassische version mit tiefen synth am anfang
+- wäre sicher easy auszutauschen
+- auch richtig gut
+- kann hier nich klagen
+- zwischenpart war cool
+- wenn reinkickt der part auch hier echt gut
+- verspieler NICHT VORHANDEN
+- meddlmäßiges goodbye torture am ende fand ich gut
+- fand war echt ne lässige version
+
+#### Take 5 😫
+##### Fabi 
+- Leider abbruch :(
+- kickt geil rein
+- bis zum abbruch gut
+- vil kann man hier und da bisl ausschlachten
+
+#### Take 6 🤔
+##### Fabi
+- top
+- eig auch alles super
+- production idee, evtl mit echo auf vocals hochgehen manchmal
+
+### Metalsong
+#### Take 1
+##### Fabi
+- dachte wäre viel schlechter
+- aber drums sind hier auch iwie geil
+- hab vergessen bei dem einen part die höhen bei gitarre zu aktivieren (wie am ende)
+- window to my heart am anfang fand ich gut
+

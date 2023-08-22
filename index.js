@@ -17,6 +17,14 @@ const songs = {
     name: 'shithotel',
     title: 'Shit Hotel',
     takes: 6,
+  },profit: {
+    name: 'profit',
+    title: 'Profit',
+    takes: 4,
+  },severedheads: {
+    name: 'severedheads',
+    title: 'Severed Heads',
+    takes: 6,
   },
 };
 
