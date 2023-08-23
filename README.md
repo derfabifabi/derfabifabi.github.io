@@ -2,7 +2,7 @@
 
 ## status 🔭 
 
-- sichten 
+- ~~sichten~~
 - entscheiden 👈
 - drums schneiden
 - gitarre und synth schneiden
