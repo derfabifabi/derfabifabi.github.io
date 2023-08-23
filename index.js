@@ -35,7 +35,6 @@ const songs = {
     takes: 6,
   },
 };
-};
 
 addSongsToDom(songs);
 

@@ -336,7 +336,7 @@ Jonas
 - danach drums top, der schlag aufs becken genial
 - fand den stark
 
-#### Take 6
+#### Take 6 🤔
 ##### Fabi
 - hier bisl am ende der kräfte am anfang
 - fand den gesang auch ok
@@ -344,3 +344,13 @@ Jonas
 - glaaaube aber es ganb bessere vocals bei anderen
 - an sich nicht so super tight aber auch guter take
 - übergänge waren glaub überall gut hier!
+
+### Trash
+#### Take 1 😫
+##### Fabi
+- generell bisi unsicher
+- hohen vocal parts waren gut
+- bisi viel verspieler gitarrentechnisch
+- vocals viel text vergessen u. unsicher
+- dann abbruch 
+
