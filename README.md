@@ -294,3 +294,53 @@ Jonas
 - mini verspieler von jonas vor vers 2 kann man locker wegbügeln
 - find die version sau genial
 - wo jonas am ende einzählt könnte man noch synth wegschneiden als idee
+
+
+### Metal
+#### Take 1 🤔
+#####Fabi
+- bisl schief gesungen
+- mittelteil war nix mit gitarre, vergessen höhen reinzuballern
+
+
+#### Take 2 🤔
+##### Fabi
+- vocals besser
+- mittelteil hier war ganz geil 
+- gitarre, gesang besser als bei 1
+- am ende bisl gitarre verspielt
+
+#### Take 3 🤔
+##### Fabi
+- Anfang bisl weird
+- to my heeaaaarrrttttttt war metal 
+- finds ganz gut
+- übergang zu mittelteil höhenteil war geil
+- der Teil an sich auch (besser als bei 2?)
+- Ende war glaub top
+- production idee: vocals verzerren auf jeden
+
+#### Take 4 🤔
+##### Fabi
+- vocals ganz gut »saw it cominggg«
+- to my heeeeaaarrrtt war auch ganz gut
+- überteil zwischenpart top
+- zwischenteil passt auch
+- Ende ist schlagzeug von jonas kaputtgegangen aber fand das iwie interessant?
+
+#### Take 5 🤔
+##### Fabi
+- find ganz den anfang ganz spaßig
+- drums hier bisl viel verspielt stellenweise, könnte man aber sichi fixen
+- part vor and you, you are, am ende, übergang dazu genial
+- danach drums top, der schlag aufs becken genial
+- fand den stark
+
+#### Take 6
+##### Fabi
+- hier bisl am ende der kräfte am anfang
+- fand den gesang auch ok
+- werd den glaub eh zam mergen aus allen
+- glaaaube aber es ganb bessere vocals bei anderen
+- an sich nicht so super tight aber auch guter take
+- übergänge waren glaub überall gut hier!

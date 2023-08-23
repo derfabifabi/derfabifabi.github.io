@@ -29,7 +29,12 @@ const songs = {
     name: 'runningmouth',
     title: 'Running out my Mouth',
     takes: 4,
+  },metal: {
+    name: 'metal',
+    title: 'Window (Metal)',
+    takes: 6,
   },
+};
 };
 
 addSongsToDom(songs);
