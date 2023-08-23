@@ -35,7 +35,7 @@ const songs = {
     takes: 6,
   },trash: {
     name: 'trash',
-    title: 'Trash',
+    title: 'Trash!',
     takes: 6,
   }
 };
