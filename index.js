@@ -33,7 +33,11 @@ const songs = {
     name: 'metal',
     title: 'Window (Metal)',
     takes: 6,
-  },
+  },trash: {
+    name: 'trash',
+    title: 'Trash',
+    takes: 6,
+  }
 };
 
 addSongsToDom(songs);

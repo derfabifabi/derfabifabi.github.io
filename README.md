@@ -2,7 +2,8 @@
 
 ## status 🔭 
 
-- sichten 👈
+- sichten 
+- entscheiden 👈
 - drums schneiden
 - gitarre und synth schneiden
 - vocals schneiden + lautstärke angleichen
@@ -18,7 +19,7 @@
 - shithotel 🔪
 - metalsong 🔭
 - profit 🔪
-- trash 
+- trash 🔪
 - runningmouth 🔪
 - severedheads 🔪 
 
@@ -353,4 +354,42 @@ Jonas
 - bisi viel verspieler gitarrentechnisch
 - vocals viel text vergessen u. unsicher
 - dann abbruch 
+
+#### Take 2 😫
+##### Fabi
+- alles viel besser
+- gesang teils echt gut
+- mag die country gitarre auch
+- dan hab i mi verspielt und ABBRUCH
+
+
+#### Take 3
+##### Fabi
+- wird immer besser
+- vocals gut
+- hab mich mal kurz verspielt vor 1. trashhhhhh
+- beim letzten vers text am anfang kurz vergessen
+- fand die versio fetzn geil imo
+
+
+#### Take 4
+##### Fabi
+- hier bisl zu verzerrte gitarre
+- vocals behämmert
+- war nix aber wollts trotzdem exportieren :(
+
+
+#### Take 5
+##### Fabi
+- fand war ein guter take
+- könnt ich mir vorstellen
+- bisl vocals mal zu leise
+- vil kann man hier auch vocal best of cutten oder so
+- kommt genial alles auch mit dem mehrstimmigen haha
+
+#### Take 6
+##### Fabi
+- kann man au ned meckern
+- fand i au ganz geil
+- weiß ned ob vocal bei 5 besser waren
 
