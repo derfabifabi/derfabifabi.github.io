@@ -223,6 +223,8 @@ Jonas
 - fand ich vom Feeling iwie geil 
 - aber quatsch weil natürlich mitte behämmert
 - aber production idee: Währened ich die Gitarre das rückwerts laufen lassen
+##### Jonas
+- check die production idee nicht aber würde gerne :D
 
 #### Take 2 🤔
 ##### Fabi
@@ -233,7 +235,9 @@ Jonas
 - geballerpart auch geil
 - dachte geballerpart muss garnicht so ballern aber fands jetzt recht geil
 - hatte noch ne production idee, das nach der pause wie oben beschrieben zweite gesang leise von rechts kommt und oder zweite gitarre, das quasi alles immer mehr wird, kurz vor GEBALLER dann leiser und dann BRRRR, vil verstehen SIE
-
+##### Jonas
+- synth wegschneiden und höher spielen find ich beides sau legger
+- glaub find das becken/geballer am ende zu heftig
 
 #### Take 3 🤔
 ##### Fabi
@@ -254,7 +258,10 @@ Jonas
 - verspieler NICHT VORHANDEN
 - meddlmäßiges goodbye torture am ende fand ich gut
 - fand war echt ne lässige version
-
+##### Jonas
+- find die hier richtig gut
+- würde evtl. auch hier am ende die ride bissl runterdrehen 
+  
 #### Take 5 😫
 ##### Fabi 
 - Leider abbruch :(
@@ -267,6 +274,10 @@ Jonas
 - top
 - eig auch alles super
 - production idee, evtl mit echo auf vocals hochgehen manchmal
+##### Jonas
+- find die version zu schnell
+- die idee mit dem echo kann ich mir auch gut vorstellen
+
 
 ### Running out my Mouth
 #### Take 1 😫
@@ -278,6 +289,8 @@ Jonas
 - besser mit 1 mal ohne gesang am anfang
 - production idee: mehr sidechain auf synth
 - besser als Take 1 aber mit mehr verspielern?
+##### Jonas
+- gitarre bei wildem teil am ende ist cool
 
 #### Take 3 🤔
 ##### Fabi
@@ -294,7 +307,10 @@ Jonas
 - mini verspieler von jonas vor vers 2 kann man locker wegbügeln
 - find die version sau genial
 - wo jonas am ende einzählt könnte man noch synth wegschneiden als idee
-
+##### Jonas
+- bing bei der gitarre im break teil ist hot
+- finde die hier auch am besten
+- wildes ende noch besser als bei 2
 
 ### Metal
 #### Take 1 🤔
