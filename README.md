@@ -403,9 +403,14 @@ Jonas
 - vil kann man hier auch vocal best of cutten oder so
 - kommt genial alles auch mit dem mehrstimmigen haha
 
+##### Carina
+- find super würde den nehmen und das mehrstimmige klingt mega gut 
+
 #### Take 6
 ##### Fabi
 - kann man au ned meckern
 - fand i au ganz geil
 - weiß ned ob vocal bei 5 besser waren
 
+##### Carina
+- fand vocals bei 5 besser würde 5 nehmen
