@@ -319,7 +319,6 @@ Jonas
 - bisl schief gesungen
 - mittelteil war nix mit gitarre, vergessen höhen reinzuballern
 
-
 #### Take 2 🤔
 ##### Fabi
 - vocals besser
@@ -352,6 +351,13 @@ Jonas
 - part vor and you, you are, am ende, übergang dazu genial
 - danach drums top, der schlag aufs becken genial
 - fand den stark
+##### Jonas
+- finde auch bester anfang aber würde die tom rausnehmen
+- gesang ist auch geil, finde hier am besten
+- find das becken ist zu laut im refrain
+- denke tightester take bei den drums
+- glaube ist cooler wenn die drums beim ballerpart ganz am ende schon bissl eher zack bum zak bum macht
+- beste take dega
 
 #### Take 6 🤔
 ##### Fabi
@@ -377,7 +383,9 @@ Jonas
 - gesang teils echt gut
 - mag die country gitarre auch
 - dan hab i mi verspielt und ABBRUCH
-
+##### Jonas
+- evtl. das mehrstimmige am anfang noch nicht?
+- finde mein trash beim ersten mal zu heftig :D
 
 #### Take 3
 ##### Fabi
@@ -386,7 +394,8 @@ Jonas
 - hab mich mal kurz verspielt vor 1. trashhhhhh
 - beim letzten vers text am anfang kurz vergessen
 - fand die versio fetzn geil imo
-
+##### Jonas
+- mag auch den gesang hier
 
 #### Take 4
 ##### Fabi
@@ -404,7 +413,9 @@ Jonas
 - kommt genial alles auch mit dem mehrstimmigen haha
 
 ##### Carina
-- find super würde den nehmen und das mehrstimmige klingt mega gut 
+- find super würde den nehmen und das mehrstimmige klingt mega gut
+##### Jonas
+- find die gitarre wie bei 3 am anfang besser,  evtl. die verzerrung erst wenn wir gemeinssam einsteigen?
 
 #### Take 6
 ##### Fabi
