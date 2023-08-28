@@ -32,47 +32,62 @@
 ## Recordings
 ### Unemployed
 #### Take 1 😩
+##### Fabi
 - Riff nach solo war nix
 - Text vergessen
 - Gesang kannscht da vergessen
 
 #### Take 2 🤔
+##### Fabi
 - Solo war sehr geil
 - Gesang ist stabil
 - Drums auch stabil
 
 #### Take 3 😫
+##### Fabi
 - Ende ned geklappt
 - ansonsten ganz stabil bis dahin
 
 #### Take 4 🤔
+##### Fabi
 - Solo war auch ganz gut
 - Riff danach wieder bisl schepps
 - Schlagzeug am Ende verspielt sich
 - Gesang passt auch grob
 
 #### Take 5 🤔
+##### Fabi
 - bisl schneller als die anderen Versionen
 - Gesang hier echt gut
 - Solo hier RADICAL (*guitar bending*)
 - Find die recht stabil
+
+##### Jonas
 - jep
 
 #### Take 6 🤔
+
+##### Fabi
 - auch schneller (finds besser)
 - sollo wieder RADICAL mit *bendings*
 - hab hier mal den übergang gefaket und klappt
-- auch echt gut hier ALLES 
+- auch echt gut hier ALLES
+
+##### Jonas
 - glaube ich finde die am besten
 - find 5 und 6 beide sehr gut
 - evtl. muss man beim unemployed teil manchmal die drums fixen weil bissl gehastet wirkt?
 
 #### Take 7 🤔
+
+##### Fabi
 - auch echt gut
 - Solo bisl schlechter
 - Vocals haben gepasst
 - vor dem wealthy part spiel ich ausversehen *1 geilen RIFF*
 - Rest passt auch glaub auch
+
+##### Jonas
 - bissi langsamer als 5 und 6?! auch nicht schlecht
 
 
@@ -155,26 +170,33 @@
 
 ### Shithotel
 #### Take 1 😩
+##### Fabi
 - jobinterview part gut 
 - aber am ende verspielt und abgebrochen
 
 #### Take 2 🤔
+##### Fabi
 - Gesang overall ganz gut
 - aber iwie paar mal text vergessen…
 - neue »Variante« mit dem Riff vor I bet you think its great …
 - find ich ganz geil?
+
+##### Jonas
 - find die auch cool
 - becken am anfang klingt zu heftig
 - da spiel ich noch was anderes bei dem aaaaah aaaaah düdüdü, kann man da das erste becken durch snare ersetzen oder von anderer Version klauen?
 
 #### Take 3 😩
+##### Fabi
 - eher schwach mit relativ vielen verspielern
 
 #### Take 4 😩
+##### Fabi
 - ok aber ende VOR crazy Ende verspielt
 - crazyende war hier aber ganz geil
 
 #### Take 5 🤔
+##### Fabi
 - KLASSISCHE VERSION, F gespielt, vor (I bet you think…)
 - gitarre bisl mehr verzerrt
 - jobinterview part ganz gut
@@ -183,13 +205,19 @@
 - drums bisl viel verspieler
 - solo recht gut (vil die verzerrte variante wo reinmogeln?)
 - crazy ende gut
+
+##### Jonas
 - hier klingt das becken am anfang gut :D
 
 #### Take 6 🤔
+
+##### Fabi
 - interview part hat da echt gut geklappt
 - synth wieder hoch bei erstem »solo« (nice)
 - soo hier auch wieder lustig (vil iwie so zwei solos gleichzeitig?)
 - ende auch top
+
+##### Jonas
 - finde bester take
 
 
@@ -197,21 +225,25 @@
 ### Profit
 
 #### Take 1 🤔
+##### Fabi
 - stabil
 
 
 #### Take 2 🤔
+##### Fabi
 - gitarre bisl unverzerrter
-Jonas
+##### Jonas
 - finde das diddldingdiddlding auf der unverzerrten gitarre klingt sau gut, aber insgesamt wahrscheinlich verzerrt besser
 
 
 #### Take 3 😩
+##### Fabi
 - verzerrter = besser
 - aber abbruch weil verspielt 
 
 
 #### Take 4 🤔
+##### Fabi
 - verzerrter = besser 
 - wo ich so seiten mute und drübber klopp klingt am geilsten
 - find ich beste
@@ -230,7 +262,7 @@ Jonas
 - aber quatsch weil natürlich mitte behämmert
 - aber production idee: Währened ich die Gitarre das rückwerts laufen lassen
 ##### Jonas
-- check die production idee nicht aber würde gerne :D
+- check die production idee nicht aber würde gerne :D **@jonas** meinte den effekt: https://www.youtube.com/watch?v=c8xI_xXqcmo
 
 #### Take 2 🤔
 ##### Fabi
@@ -281,7 +313,7 @@ Jonas
 - eig auch alles super
 - production idee, evtl mit echo auf vocals hochgehen manchmal
 ##### Jonas
-- find die version zu schnell
+- find die version zu schnell **@jonas** ich find die richtig gut, vil muss ich mir Take 4 noch bisl öfter anhören
 - die idee mit dem echo kann ich mir auch gut vorstellen
 
 
@@ -390,7 +422,7 @@ Jonas
 - dan hab i mi verspielt und ABBRUCH
 ##### Jonas
 - evtl. das mehrstimmige am anfang noch nicht?
-- finde mein trash beim ersten mal zu heftig :D
+- finde mein trash beim ersten mal zu heftig :D **@jonas** kann sein das ichs da zu laut reingemischt hab
 
 #### Take 3
 ##### Fabi
@@ -418,9 +450,9 @@ Jonas
 - kommt genial alles auch mit dem mehrstimmigen haha
 
 ##### Carina
-- find super würde den nehmen und das mehrstimmige klingt mega gut
+- find super würde den nehmen und das mehrstimmige klingt mega gut **@carina** find ich auch 🤑
 ##### Jonas
-- find die gitarre wie bei 3 am anfang besser,  evtl. die verzerrung erst wenn wir gemeinssam einsteigen?
+- find die gitarre wie bei 3 am anfang besser,  evtl. die verzerrung erst wenn wir gemeinssam einsteigen? **@jonas** müsen wir mal schauen ob wir das reinmogeln können 😏
 
 #### Take 6
 ##### Fabi
@@ -429,4 +461,4 @@ Jonas
 - weiß ned ob vocal bei 5 besser waren
 
 ##### Carina
-- fand vocals bei 5 besser würde 5 nehmen
+- fand vocals bei 5 besser würde 5 nehmen **@carina** 🤙
