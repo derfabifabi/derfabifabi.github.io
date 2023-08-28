@@ -4,11 +4,16 @@
 
 - ~~sichten~~
 - entscheiden 👈
+- ich brauch ein neuen mac[^1]
 - drums schneiden
 - gitarre und synth schneiden
 - vocals schneiden + lautstärke angleichen
 - mischen
 - mastern
+
+[^1]: Ab dem 18.9 kann ich weiter machen. Denke mit Mac von Arbeit 😤
+
+
 
 
 ## Songs
@@ -17,7 +22,7 @@
 - ambition 🔪
 - after all 🔪
 - shithotel 🔪
-- metalsong 🔭
+- metalsong 🔪
 - profit 🔪
 - trash 🔪
 - runningmouth 🔪
