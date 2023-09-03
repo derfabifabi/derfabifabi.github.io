@@ -167,6 +167,7 @@
 ##### Jonas
 - glaub finde die 1 minimal besser
 - lauter werden hier nicht so fetzig
+- hör gerade nochmal die an und finde glaube ich doch die 3 am besten
 
 ### Shithotel
 #### Take 1 😩
