@@ -14,7 +14,7 @@
 [^1]: Ab dem 18.9 kann ich weiter machen. Denke mit Mac von Arbeit 😤
 
 
-## Songs
+## Songauswahl
 - unemployed v5 (mit v6 ausbessern)
 - ambitions v2
 - after all v3 (gesang von 1 reinschneiden, übergänge von 1 oder 2 nutzen)
