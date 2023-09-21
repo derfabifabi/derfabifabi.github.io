@@ -37,7 +37,7 @@ function createTakes(song) {
 function createSong(song) {
   const el = document.createElement('li');
   const details = document.createElement('details');
-  details.innerHTML = `<summary class="sticky top-0 cursor-pointer bg-white px-2 py-1 $
+  details.innerHTML = `<summary class="sticky top-0 cursor-pointer bg-white px-2 py-1 text-3xl">${song.title}</summary>`;
   details.appendChild(createTakes(song));
   el.appendChild(details);
   return el;
@@ -50,6 +50,5 @@ function addSongsToDom(songs) {
       .appendChild(createSong(songs[song]));
   });
 }
-
 
 
