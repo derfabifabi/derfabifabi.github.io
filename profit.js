@@ -6,6 +6,7 @@ const songs = {
   },
 };
 
+
 addSongsToDom(songs);
 
 function createTake(song, index) {
