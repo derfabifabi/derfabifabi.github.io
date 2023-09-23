@@ -32,8 +32,8 @@
 - after all 🔪
 - shithotel 🔪
 - metalsong 🔪
-- profit 🔪
+- profit 🔪😵
 - trash 🔪
-- runningmouth 🔪
+- runningmouth 🔪😵
 - severedheads 🔪
 
