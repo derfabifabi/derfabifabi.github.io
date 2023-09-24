@@ -50,7 +50,7 @@ function addSongsToDom(songs) {
       .getElementById('songList')
       .appendChild(createSong(songs[song]));
   });
-
+};
 
 
 
