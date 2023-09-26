@@ -18,7 +18,7 @@
 - shit hotel v6
 - profit v4 (vil was von 2 reinschneiden)
 - severed heads v6
-- running out my mouth v4
+- running out my mouth ~~v4~~ v2
 - metal v5
 - trash v3 (finde die doch besser weil gitarre nicht so ballert, können aber mit and$
 
@@ -27,13 +27,13 @@
 
 ## Songs
 ### 🔭 sichten, 🔪 schneiden, 😵 vocals anpassen, 🍹 mischen, 💅 mastern
-- unemployed 🔪
+- unemployed 🔪😵
 - ambition 🔪
 - after all 🔪
 - shithotel 🔪
 - metalsong 🔪
-- profit 🔪😵
+- profit 🔪😵🍹
 - trash 🔪
-- runningmouth 🔪😵
+- runningmouth 🔪😵🍹
 - severedheads 🔪
 
