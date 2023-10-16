@@ -2,7 +2,7 @@ const songs = {
   metal: {
     name: 'metal',
     title: 'Window (metal)',
-    takes: 1,
+    takes: 2,
   },
 };
 
