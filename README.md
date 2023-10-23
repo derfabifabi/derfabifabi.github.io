@@ -27,13 +27,13 @@
 
 ## Songs
 ### 🔭 sichten, 🔪 schneiden, 😵 vocals anpassen, 🍹 mischen, 💅 mastern
-- unemployed 🔪😵
+- unemployed 🔪😵🍹
 - ambition 🔪
 - after all 🔪
-- shithotel 🔪
-- metalsong 🔪
+- shithotel 🔪😵
+- metalsong 🔪😵🍹
 - profit 🔪😵🍹
 - trash 🔪
 - runningmouth 🔪😵🍹
-- severedheads 🔪
+- severedheads 🔪😵🍹
 
