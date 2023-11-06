@@ -30,7 +30,7 @@
 - unemployed 🔪😵🍹
 - ambition 🔪
 - after all 🔪
-- shithotel 🔪😵
+- shithotel 🔪😵🍹
 - metalsong 🔪😵🍹
 - profit 🔪😵🍹
 - trash 🔪
