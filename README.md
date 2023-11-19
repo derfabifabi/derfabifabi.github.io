@@ -29,7 +29,7 @@
 ### 🔭 sichten, 🔪 schneiden, 😵 vocals anpassen, 🍹 mischen, 💅 mastern
 - unemployed 🔪😵🍹
 - ambition 🔪
-- after all 🔪😵
+- after all 🔪😵🍹
 - shithotel 🔪😵🍹
 - metalsong 🔪😵🍹
 - profit 🔪😵🍹
