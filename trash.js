@@ -1,5 +1,5 @@
 const songs = {
-  severedheads: {
+  trash: {
     name: 'trash',
     title: 'Trash',
     takes: 1,
