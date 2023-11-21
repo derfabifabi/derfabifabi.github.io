@@ -17,7 +17,7 @@ function createTake(song, index) {
       <h4 class="text-xs flex-shrink-0">Take ${index + 1}</h4>
       <audio controls class="w-full">
         <source
-          src="export/${name}/edit/${name}_take_0${index + 1}.mp3"
+          src="export/${name}/edits/${name}_take_0${index + 1}.mp3"
           type="audio/mpeg"
         />
       </audio>
