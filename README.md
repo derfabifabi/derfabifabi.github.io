@@ -33,7 +33,7 @@
 - shithotel 🔪😵🍹
 - metalsong 🔪😵🍹
 - profit 🔪😵🍹
-- trash 🔪😵
+- trash 🔪😵🍹
 - runningmouth 🔪😵🍹
 - severedheads 🔪😵🍹
 
