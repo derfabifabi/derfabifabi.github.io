@@ -2,7 +2,7 @@ const songs = {
   afterall: {
     name: 'afterall',
     title: 'After All',
-    takes: 2,
+    takes: 3,
   },
 };
 
