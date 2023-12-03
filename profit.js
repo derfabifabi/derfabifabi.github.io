@@ -2,7 +2,7 @@ const songs = {
   profit: {
     name: 'profit',
     title: 'Profit',
-    takes: 5,
+    takes: 6,
   },
 };
 
