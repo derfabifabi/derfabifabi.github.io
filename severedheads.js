@@ -2,7 +2,7 @@ const songs = {
   severedheads: {
     name: 'severedheads',
     title: 'Severed Heads',
-    takes: 3,
+    takes: 4,
   },
 };
 
