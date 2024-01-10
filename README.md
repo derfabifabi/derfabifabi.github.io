@@ -1,13 +1,13 @@
 # JöbpÖp
 
-## status 🔭 
+## status ~SICHTEN 
 
 - ~~sichten~~
 - ~~entscheiden~~
 - ~~ich brauch ein neuen mac~~
-- schneiden 👈
-- lautstärke angleichen
-- mischen
+- ~~schneiden~~
+- ~~lautstärke angleichen~~
+- mischen 👈
 - mastern
 
 
@@ -26,14 +26,14 @@
 
 
 ## Songs
-### 🔭 sichten, 🔪 schneiden, 😵 vocals anpassen, 🍹 mischen, 💅 mastern
-- unemployed 🔪😵🍹
-- ambition 🔪😵🍹
-- after all 🔪😵🍹
+### 🔭 sichten, 🔪 schneiden, 😵 vocals anpassen, 🍹 mischen, 🍸 fErTiGmIsChEn,  💅 mastern
+- unemployed (unemployed alter mix nochmal neu.als) 🔪😵🍹🍸
+- ambition (transmission_mix.als) 🔪😵🍹🍸
+- after all (after mix.als) 🔪😵🍹🍸
 - shithotel 🔪😵🍹
 - metalsong 🔪😵🍹
-- profit 🔪😵🍹
+- profit (profit mit unemployed stuff.als) 🔪😵🍹🍸
 - trash 🔪😵🍹
 - runningmouth 🔪😵🍹
-- severedheads 🔪😵🍹
+- severedheads (severed heads mix.als) 🔪😵🍹🍸
 
