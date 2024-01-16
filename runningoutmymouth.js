@@ -2,7 +2,7 @@ const songs = {
   runningmouth: {
     name: 'runningmouth',
     title: 'Runnig Out My Mouth',
-    takes: 1,
+    takes: 2,
   },
 };
 

@@ -2,7 +2,7 @@ const songs = {
   severedheads: {
     name: 'shithotel',
     title: 'Shit Hotel',
-    takes: 1,
+    takes: 2,
   },
 };
 
