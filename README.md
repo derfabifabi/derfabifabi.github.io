@@ -30,10 +30,10 @@
 - unemployed (unemployed alter mix nochmal neu.als) 🔪😵🍹🍸
 - ambition (transmission_mix.als) 🔪😵🍹🍸
 - after all (after mix.als) 🔪😵🍹🍸
-- shithotel 🔪😵🍹🍸
+- shithotel (shithotel_mix.als)🔪😵🍹🍸
 - metalsong (window mix.als) 🔪😵🍹🍸
 - profit (profit mit unemployed stuff.als) 🔪😵🍹🍸
-- trash 🔪😵🍹🍸
-- runningmouth 🔪😵🍹🍸
+- trash (trash mix.als) 🔪😵🍹🍸
+- runningmouth (runningOutMyMouth_mix.als) 🔪😵🍹🍸
 - severedheads (severed heads mix.als) 🔪😵🍹🍸
 
