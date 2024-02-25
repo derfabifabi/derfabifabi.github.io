@@ -26,11 +26,11 @@
 
 
 ## Songs
-### 🔭 sichten, 🔪 schneiden, 😵 vocals anpassen, 🍹 mischen, 🍸 fErTiGmIsChEn,  💅 mastern
+### 🔭 sichten, 🔪 schneiden, 😵 vocals anpassen, 🍹 mischen, 🍸 fErTiGmIsChEn,  💅 mastern, 👌 polish
 - unemployed (unemployed alter mix nochmal neu.als) 🔪😵🍹🍸
 - ambition (transmission_mix.als) 🔪😵🍹🍸
 - after all (after mix.als) 🔪😵🍹🍸
-- shithotel (shithotel_mix.als)🔪😵🍹🍸
+- shithotel (shithotel_mix.als)🔪😵🍹🍸👌
 - metalsong (window mix.als) 🔪😵🍹🍸
 - profit (profit mit unemployed stuff.als) 🔪😵🍹🍸
 - trash (trash mix.als) 🔪😵🍹🍸
